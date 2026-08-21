@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.ecoviewwindows.co.uk/sitemap.xml
